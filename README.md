@@ -1,6 +1,6 @@
 # Pac Men Exercise
 
-You are going to control a PacMan image to simulate the PacMan moving across the screen and reversing direction.Click on the pacman image to start the animation
+You are going to control a PacMan image to simulate the PacMan moving across the screen and reversing direction.Go on https://github.com/florionn/PacMenExercise to start the exercise.Click on the pacman image to start the animation.
 
 Copyright <2021> <COPYRIGHT HOLDER "MIT">
 
